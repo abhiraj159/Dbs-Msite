@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_26342" data-name="Rectangle 26342" width="15" height="15" transform="translate(5121 2662)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Challenges-icon" transform="translate(-5121 -2662)" clip-path="url(#clip-path)">
+    <g id="flag_1_" data-name="flag (1)" transform="translate(5121 2662)">
+      <path id="Path_69878" data-name="Path 69878" d="M111.643,61.167l-1.049-.427a7.372,7.372,0,0,0-4.048-.541,9.741,9.741,0,0,0-2.84,1.054,3.54,3.54,0,0,1-1.9.585,3.662,3.662,0,0,1-1.362-.431c-.161-.075-.306-.142-.427-.187l-.306.812.028,4.69a9.288,9.288,0,0,0,2.623.37,6.888,6.888,0,0,0,4.11-1.175c.941-.8,1.253-.669,2.009-.36l.716.292-.124-.763a5.911,5.911,0,0,0-.829-2.317,7.545,7.545,0,0,1,2.332-1.217Z" transform="translate(-96.826 -58.367)" fill="orange"/>
+      <path id="Path_69879" data-name="Path 69879" d="M90.434,75H90V85.476h.868V75Z" transform="translate(-87.396 -72.83)" fill="#e57e25"/>
+      <path id="Path_69880" data-name="Path 69880" d="M105,75h.434V85.476H105Z" transform="translate(-101.961 -72.83)" fill="#f29c1f"/>
+      <circle id="Ellipse_1113" data-name="Ellipse 1113" cx="1.27" cy="1.27" r="1.27" transform="translate(1.693)" fill="#e57e25"/>
+      <path id="Path_69881" data-name="Path 69881" d="M106.3,1.3A1.3,1.3,0,0,0,105,0V2.6A1.3,1.3,0,0,0,106.3,1.3Z" transform="translate(-101.961)" fill="#f29c1f"/>
+      <path id="Path_69882" data-name="Path 69882" d="M5.076,422.868H4.341V422h-2.6v.868H1L0,424.6H6.077Z" transform="translate(0 -409.788)" fill="#e57e25"/>
+      <path id="Path_69883" data-name="Path 69883" d="M107.037,422.868H106.3V422H105v2.6h3.039Z" transform="translate(-101.961 -409.788)" fill="#f29c1f"/>
+    </g>
+  </g>
+</svg>
